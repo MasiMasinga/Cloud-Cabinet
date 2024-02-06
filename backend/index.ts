@@ -16,5 +16,5 @@ app.use(errorHandler);
 const PORT = process.env.PORT || 8081;
 
 app.listen(PORT, () => {
-    console.log(`Cloud Cabinent 🚀Server Started on PORT ${PORT}`);
+  console.log(`Cloud Cabinent 🚀Server Started on PORT ${PORT}`);
 });
